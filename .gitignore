@@ -1,0 +1,4 @@
+data/
+mnist/
+__*
+*.jpg
