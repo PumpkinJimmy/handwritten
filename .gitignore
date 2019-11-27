@@ -2,3 +2,7 @@ data/
 mnist/
 __*
 *.jpg
+*.npz
+result/
+*.swp
+
