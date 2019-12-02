@@ -3,6 +3,6 @@ mnist/
 __*
 *.jpg
 *.npz
-result/
 *.swp
-
+.ipynb_checkpoints
+!result/*.npz
